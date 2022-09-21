@@ -8,6 +8,8 @@ public class ContactTest {
 	public void contact()
 	{
 		System.out.println("This is my first commit - MavenProjects");
+		
+		System.out.println("ok");
 	}
 
 }
