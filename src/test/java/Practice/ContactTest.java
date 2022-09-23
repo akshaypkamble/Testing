@@ -14,6 +14,7 @@ public class ContactTest {
 		System.out.println("final");
 		
 		System.out.println("FINAL");
+		System.out.println("FINAL");
 	}
 
 }
